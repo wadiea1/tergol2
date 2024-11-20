@@ -9,6 +9,7 @@ public class SharedData
 	private int t222213213213;
 	private int t222213213213;
 	private int t222213213213;
+	private int BADER_MAJNON;
 	
 	
 	public SharedData(int[] array, int b) {
