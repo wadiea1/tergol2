@@ -5,6 +5,7 @@ public class SharedData
 	private boolean flag;
 	private final int b;
 	private int t;
+	private int t222213213213;
 	
 	public SharedData(int[] array, int b) {
 		
