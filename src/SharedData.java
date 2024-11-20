@@ -6,10 +6,11 @@ public class SharedData
 	private final int b;
 	private int t;
 	private int t222213213213;
+	private int t2222cecdcdcvev13213213;
 	private int t222213213213;
 	private int t222213213213;
-	private int t222213213213;
-	private int BADER_MAJNON;
+	private int BADER_MAdjfnekfncscsJNON;
+	private int hilalmjnonakthr;
 	
 	
 	public SharedData(int[] array, int b) {
